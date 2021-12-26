@@ -1,0 +1,1 @@
+{"ast":null,"code":"const initState = {\n  product\n};","map":{"version":3,"sources":["C:/Users/DELL/Desktop/MERN-Demo/front-end/src/reducers/product.reducer.js"],"names":["initState","product"],"mappings":"AAAA,MAAMA,SAAS,GAAG;AACdC,EAAAA;AADc,CAAlB","sourcesContent":["const initState = {\r\n    product\r\n}"]},"metadata":{},"sourceType":"module"}
