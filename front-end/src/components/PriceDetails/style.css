@@ -1,0 +1,7 @@
+.flexRow{
+    justify-content: space-between;
+    flex: 1;
+}
+.total{
+    font-size: 25px;
+}
